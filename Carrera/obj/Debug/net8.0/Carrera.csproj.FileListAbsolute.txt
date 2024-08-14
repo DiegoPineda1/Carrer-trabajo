@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\bin\Debug\net8.0\Carrera.exe
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\bin\Debug\net8.0\Carrera.deps.json
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\bin\Debug\net8.0\Carrera.runtimeconfig.json
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\bin\Debug\net8.0\Carrera.dll
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\bin\Debug\net8.0\Carrera.pdb
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.AssemblyInfo.cs
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.dll
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\refint\Carrera.dll
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.pdb
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\Carrera.genruntimeconfig.cache
+C:\Users\Diego Pineda\source\repos\Carrera\Carrera\obj\Debug\net8.0\ref\Carrera.dll

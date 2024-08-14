@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|c:\\users\\diego pineda\\source\\repos\\carrera\\carrera\\clases\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|solutionrelative:carrera\\clases\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|c:\\users\\diego pineda\\source\\repos\\carrera\\carrera\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|solutionrelative:carrera\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|c:\\users\\diego pineda\\source\\repos\\carrera\\carrera\\clases\\detallecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|solutionrelative:carrera\\clases\\detallecarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|c:\\users\\diego pineda\\source\\repos\\carrera\\carrera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B62D9-721F-47E4-AFC2-B5142B528C51}|Carrera\\Carrera.csproj|solutionrelative:carrera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Carrera\\Clases\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\Asignatura.cs",
+              "RelativeToolTip": "Carrera\\Clases\\Asignatura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:29:44.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\carrera.cs",
+              "RelativeDocumentMoniker": "Carrera\\Clases\\carrera.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\carrera.cs",
+              "RelativeToolTip": "Carrera\\Clases\\carrera.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:25:06.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\DetalleCarrera.cs",
+              "RelativeDocumentMoniker": "Carrera\\Clases\\DetalleCarrera.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Clases\\DetalleCarrera.cs",
+              "RelativeToolTip": "Carrera\\Clases\\DetalleCarrera.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:23:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Program.cs",
+              "RelativeDocumentMoniker": "Carrera\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Carrera\\Carrera\\Program.cs",
+              "RelativeToolTip": "Carrera\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:22:13.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
